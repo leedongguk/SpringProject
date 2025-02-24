@@ -14,3 +14,10 @@
 ![image](https://github.com/KimJuHongg/Spring_Project_POS/assets/98217140/f0527170-8751-4531-9ce7-425d1fe0cc02)
 ![image](https://github.com/KimJuHongg/Spring_Project_POS/assets/98217140/f399b82e-02df-41be-86d0-82805b1120e9)
 ![image](https://github.com/KimJuHongg/Spring_Project_POS/assets/98217140/17ed8814-cde1-43e3-987e-6709967f710a)
+
+
+## 💁‍♂️ 프로젝트 팀원
+|Backend/Frontend|Backend/Frontend|
+|:---:|:---:|
+| ![](https://avatars.githubusercontent.com/u/39736916?v=4)| ![](https://avatars.githubusercontent.com/u/98217140?v=4) |
+|[이동국](https://github.com/leedongguk)|[김주홍](https://github.com/KimJuHongg)|
